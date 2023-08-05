@@ -1,1 +1,3 @@
 # slotmachine
+
+テスト用
